@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+κηλης:android="http://schemas.android.com/apk/res/android"
+χαλης: app-http://schemas.android.com/apk/res-autu
+χαλης:τοσίς="http://schemas.android.com/tools"
+android:layout_width="match parent"
+android:padding="200"
+android:background="AОГА
+android:layout_height="match.parent"
+tools:context.HaloActivity
+<androsax.carovies kloget, CardVan
+android: Layout widthsatch parent
+android:layout_height="match parent"
+app:cardCornerRadius:50dp
+app:cardElevation:"1000"
+tools:IgnoreMissingClass">
+<ImageView
+android:layout width-watch.parent
+android:layout_height="match parent"
+android:src="@drawable/L000
+</androidx.cardview.widget.CardView>
+</LinearLayout>android:layout height="78gp"
+android:textSize="55sp"
+android:textStyle "Doไส
+android:backgroundTint "WEF1A1A"
+android:id="@+id/btn1"
+android:textColoricolur/unita
+/>
+</androidx.cardview.widget.CardView>
+sandralux.cardviuw.widget.CarnView
+android:layout width="170dp"
+android:layout height="6bαρ"
+android:layout marginTop="400dp
+android:layout_marginLeft="105op"
+android:backgroundTint #SAYFA
+app:cardCornerRadius="20dp"
+<Button
+android:layout_width="1700p
+android:layout_height="700"
+android:text=
+android:textSize-"sp
+android:textStyle"bold"
+android:id="@+id/btn2"
+android:backgroundTint #SAYFA
+android:textColors @color/white"
+/>
+</androidx.cardview.widget.CardView>
+</androidx.cardview.widget.CardView>android:layout height="70p
+android:textSize: 35p
+android:textStyle="bold"
+android:backgroundTSATA
+android:id=91/
+android:textColoreter/white
+</androidx.cordview.widget.CardView
+android: Layout width:700p
+android:layout_height-55
+anoroze:Lavout_narginTop=40000
+mirditayout narginleft-10ham
+angrase:backgroundTints VOSKOF
+app:cardCornerRadius
+<Button
+android:layout_width="1700
+android:layout yout_height bright
+android:textSize
+android:textStylebate
+angrosa:backgroundTint
+android:textColorplar/white
+</androidx.cardvsem.widget.CardVsew>
+</androidx.cardvies.widget.Caroviewpackage com.example.myapplicationd:
+import android.os.Bundle:
+iroert android.view.View:
+ineers android.widget.Button;
+public class mainscreen extends AppLompatActivity(
+Tusage
+Button ntes, bend
+@Override
+protected void onCreate(Bundle savedInstanceState)(
+super,anCr(savedInstanceState);
+satCantantv(R.layout.activity mainscreen):
+btn2-Pinue(R.id.btn2)
+htn2.setOnClickListener(nee View OnClickListener C
+@Override
+public void onClick(View view) { inschattansty}package com.example.applicationd;
+import andcotas-compat.app.AppCompatActivitVE
+Import android.content.Intent;
+Import android.os.Bundle;
+Lsport android.os.Handler;
+public class MainActivity extends AppCompatActзиту
+20verrics
+protected void onCreate(Bundle savedInstanceState) {
+supercolor(savedInstanceState);
+setContentV(R.Inyout.actcusty.man):
+Intent Load-new Intent(MainActivity,this.winscreen.clas
+Handler an-new Handler():
+h.postDelayed (
+@Override
+public vaid run() {
+}
+3000):
